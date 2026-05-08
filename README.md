@@ -90,9 +90,15 @@
 
 <p align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flores-Romero-Andres-Gael&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Flores-Romero-Andres-Gael&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800"
+  />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores-Romero-Andres-Gael&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores-Romero-Andres-Gael&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"
+  />
 
 </p>
 
