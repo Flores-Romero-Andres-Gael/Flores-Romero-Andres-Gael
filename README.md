@@ -48,7 +48,7 @@
 - 🛠 Building inventory systems, validation workflows, and e-commerce platforms
 - 🔍 Passionate about clean architecture, REST APIs, databases, and software design
 - 🌱 Currently learning software architecture and advanced backend patterns
-- 🎓 Computer Systems Engineering student
+- 🎓 Computer Systems Engineering
 
 ---
 
