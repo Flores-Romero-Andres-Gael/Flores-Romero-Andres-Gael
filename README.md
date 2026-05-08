@@ -20,7 +20,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -40,7 +40,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 - 💻 Backend Developer focused on scalable APIs and backend architecture
 - ⚙️ Experience with Node.js, Express, TypeScript, Django REST Framework, and MongoDB
@@ -52,7 +52,7 @@
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -88,16 +88,16 @@
 
 # 📌 Featured Projects
 
-## 🛒 Django E-commerce API
+## Django E-commerce API
 REST API with authentication, shopping cart system, order management, and JWT security.
 
-## 📦 Inventory & Purchase Order System
+## Inventory & Purchase Order System
 Backend architecture for inventory validation, XML workflows, barcode scanning, and purchase order management using Node.js, Express, MongoDB, and TypeScript.
 
-## 🎮 CODEKNIGHT
+## CODEKNIGHT
 2D Unity game with combat mechanics and programming-based gameplay systems.
 
-## ⚡ Electric-HUB
+## Electric-HUB
 Web platform and desktop application for Arduino electronic components and electronics management.
 
 ---
