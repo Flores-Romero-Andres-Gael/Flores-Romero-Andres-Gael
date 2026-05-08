@@ -86,48 +86,16 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Flores-Romero-Andres-Gael&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores-Romero-Andres-Gael&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"
-  />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Flores-Romero-Andres-Gael/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 📌 Featured Projects
 
 ## 🛒 Django E-commerce API
 REST API with authentication, shopping cart system, order management, and JWT security.
 
----
-
 ## 📦 Inventory & Purchase Order System
 Backend architecture for inventory validation, XML workflows, barcode scanning, and purchase order management using Node.js, Express, MongoDB, and TypeScript.
 
----
-
 ## 🎮 CODEKNIGHT
 2D Unity game with combat mechanics and programming-based gameplay systems.
-
----
 
 ## ⚡ Electric-HUB
 Web platform and desktop application for Arduino electronic components and electronics management.
