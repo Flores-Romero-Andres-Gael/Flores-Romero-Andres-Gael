@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andres Gael Flores Romero</h1>
 
 <p align="center">
-Backend Developer | Django REST | React | Python
+Backend Developer | Django REST | React | Pyhon | Node.js | TypeScript
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gaelflores">
+  <a href="[https://linkedin.com/in/gaelflores](https://www.linkedin.com/in/gael-flores-b2b722264/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
