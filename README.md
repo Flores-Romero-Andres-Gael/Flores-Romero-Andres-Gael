@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Backend Developer • Node.js • TypeScript • Django REST • Angular • MongoDB
+  Backend / Frontend Developer • Node.js • TypeScript • Django REST • Angular • React • MongoDB • MySQL
 </p>
 
 ---
