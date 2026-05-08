@@ -67,6 +67,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/mongodb.svg" width="55"/>
+
 </p>
 
 ---
@@ -82,7 +84,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Flores-Romero-Andres-Gael/Flores-Romero-Andres-Gael/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Flores-Romero-Andres-Gael/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
