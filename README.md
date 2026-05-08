@@ -23,3 +23,28 @@ Backend Developer | Django REST | React | Pyhon | Node.js | TypeScript
 - 🛠  Experience building REST APIs, inventory systems, and e-commerce modules
 - ⚡ Passionate about clean code, databases, and backend design
 - 🎓 Computer Systems Engineering student
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flores-Romero-Andres-Gael&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores-Romero-Andres-Gael&layout=compact&theme=tokyonight"/>
+</p>
+
+![snake gif](https://github.com/Flores-Romero-Andres-Gael/Flores-Romero-Andres-Gael/blob/output/github-contribution-grid-snake.svg)
+
+## 📌 Featured Projects
+
+### 🛒 Django E-commerce API
+REST API with authentication, cart system, and order management.
+
+### 🎮 CODEKNIGHT
+2D Unity game with combat and programming mechanics.
+
+### ⚡ Electric-HUB
+Web platform and App for Arduino electronic components.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+REST+Framework;React+Developer;Python+Engineer)](https://git.io/typing-svg)
