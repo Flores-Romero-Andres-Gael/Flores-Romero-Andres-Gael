@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Andres Gael Flores Romero</h1>
 
-<!--
-**Flores-Romero-Andres-Gael/Flores-Romero-Andres-Gael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend Developer | Django REST | React | Python
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/gaelflores">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:florogael@gmail.com">
+    <img src="[https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white](https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif)" />
+  </a>
+</p>
+
+
+## 🚀 About Me
+
+- 💻 Backend Developer focused on Django REST Framework and Node.js
+-  Backend Developer focused on Django REST Framework and Node.js
+- 🌱 Currently learning software architecture and scalable backend systems
+- 🛠  Experience building REST APIs, inventory systems, and e-commerce modules
+- ⚡ Passionate about clean code, databases, and backend design
+- 🎓 Computer Systems Engineering student
