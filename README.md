@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  Backend Developer | Django REST | React | Python | Node.js | TypeScript
+  Backend / Frontend | Django REST | React | Python | Node.js | TypeScript
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBiN3I5Z2M0Y2w3dHlncnR4bDZoY3BhcjJjZTRpb2d5bjc5dW9zNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 💻 Backend Developer focused on Django REST Framework and Node.js  
 - 📱 Frontend Developer using TypeScript, Next.js, and Angular  
@@ -45,7 +45,7 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 
@@ -71,7 +71,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flores-Romero-Andres-Gael&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
@@ -81,27 +81,25 @@
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Flores-Romero-Andres-Gael/Flores-Romero-Andres-Gael/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🛒 Django E-commerce API
+### 🛒 Django E-commerce API
 REST API with authentication, cart system, and order management.
 
 ---
 
-## 🎮 CODEKNIGHT
+### 🎮 CODEKNIGHT
 2D Unity game with combat and programming mechanics.
 
 ---
 
-## ⚡ Electric-HUB
+### ⚡ Electric-HUB
 Web platform and desktop application for Arduino electronic components.
 
 ---
