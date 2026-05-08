@@ -5,7 +5,7 @@ Backend Developer | Django REST | React | Pyhon | Node.js | TypeScript
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/gaelflores](https://www.linkedin.com/in/gael-flores-b2b722264/)">
+  <a href="https://www.linkedin.com/in/gael-flores-b2b722264/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
