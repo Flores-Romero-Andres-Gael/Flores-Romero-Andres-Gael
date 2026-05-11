@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Node.js+%7C+TypeScript+Engineer;Django+REST+Framework;Angular+%26+React+Developer;Building+Scalable+Backend+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Node.js+%7C+TypeScript;Django+REST+Framework;Angular+%26+React;Building+Scalable+Backend+Systems" />
 </p>
 
 <p align="center">
