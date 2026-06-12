@@ -32,19 +32,19 @@
 
 </p>
 
-<h2 align="center">GitHub Analytics</h2>
+<h2>GitHub Analytics</h2>
 
 <p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" />
 </p>
 
----
-
-# 📊 GitHub Stats:
+<p align="center">
+  
 ![](https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
+  
+</p>
 [![](https://komarev.com/ghpvc/?username=Flores-Romero-Andres-Gael&icon=7&color=0)](https://visitcount.itsvg.in)
 
 # About Me
