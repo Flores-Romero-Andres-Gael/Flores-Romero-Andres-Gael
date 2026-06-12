@@ -39,6 +39,17 @@
 </p>
 
 ---
+---
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" />
+</p>
+
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+---
 
 # About Me
 
