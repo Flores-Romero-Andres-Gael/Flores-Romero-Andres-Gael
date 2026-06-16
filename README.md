@@ -1,8 +1,8 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Gael%20Flores&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient&customColorList=24,25,26" />
+  <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=HELLO+THERE!;Backend+Developer;Node.js+%7C+TypeScript;Django+REST+Framework;Angular+%26+React;Building+Scalable+Backend+Systems" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=HELLO+THERE!;Backend+Developer;Node.js+%7C+TypeScript;Django+REST+Framework;Angular+%26+React;Building+Scalable+Backend+Systems" />
   <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="1000"/>
 </p>
 <p align="center">
