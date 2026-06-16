@@ -91,6 +91,14 @@ Web platform and desktop application for Arduino electronic components and elect
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Always+learning+new+technologies;Building+modern+backend+systems;Passionate+about+software+engineering" />
 </p>
 
+```bash
+gael@backend-dev:~$ whoami
+Backend Developer
+
+gael@backend-dev:~$ stack
+Node.js | TypeScript | Django | Angular | MongoDB
+```
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&customColorList=24,25,26" />
 </p>
