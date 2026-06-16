@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=HELLO+THERE!;Backend+Developer;Node.js+%7C+TypeScript;Django+REST+Framework;Angular+%26+React;Building+Scalable+Backend+Systems" />
-  <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="1000"/>
 </p>
 <p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar"/>
