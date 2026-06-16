@@ -12,17 +12,17 @@
 </p>
 
 <table align="center">
-<tr>
-  <td align="center">
-    <img height="200" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
-  </td>
-  <td align="center">
-    <img height="200" src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false" />
-  </td>
-  <td align="center">
-    <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&layout=compact&hide=Jupyter%20Notebook" />
-  </td>
-</tr>
+  <tr>
+    <td align="center">
+      <img height="200" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img height="200" src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false" />
+    </td>
+    <td align="center">
+      <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&layout=compact&hide=Jupyter%20Notebook" />
+    </td>
+  </tr>
 </table>
 
 <h2 align="center"> Tech Stacks </h2>
