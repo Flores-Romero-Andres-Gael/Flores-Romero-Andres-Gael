@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=slice&waving=true&color=gradient)
 <h1 align="center">Hello there!!!</h1>
 
 <p align="center">
