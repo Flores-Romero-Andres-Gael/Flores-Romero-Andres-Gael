@@ -1,8 +1,5 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,30&text=Andres%20Gael%20Flores%20Romero&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20TypeScript%20|%20Django%20|%20Angular&descAlignY=60&descSize=18" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=A020F0&center=true&vCenter=true&width=900&lines=Andres+Gael+Flores+Romero" />
 </p>
 
