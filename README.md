@@ -36,15 +36,39 @@
   <img src="./metrics.plugin.isocalendar.fullyear.svg" />
 </p>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  
-  ![](https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://streak-stats.demolab.com/?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=Flores-Romero-Andres-Gael&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-  
-</p
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar"/>
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&layout=compact&hide=Jupyter%20Notebook"
+    alt="Top Languages"
+  />
+
+  <img
+    height="170"
+    src="https://github-contributor-stats.vercel.app/api?username=Flores-Romero-Andres-Gael&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true"
+    alt="Top Contributors"
+  />
+</p>
   
 # About Me
 
