@@ -1,10 +1,22 @@
 <p align="center">
-  <img width="100%" heigth='80%' src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Gael%20Flores&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient&customColorList=24,25,26" />
+  <img width="100%" heigth='80%' src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi!%I´m%Gael%20Flores&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient&customColorList=24,25,26" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=HELLO+THERE!;Backend+Developer+JR;Node.js+%7C+TypeScript;Django+REST+Framework;Angular+%26+React;Building+Scalable+Backend+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="800"/>
+
+  <a href="https://www.linkedin.com/in/gael-flores-b2b722264/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:floroandresjob@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Flores-Romero-Andres-Gael">
+    <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
 </p>
 
 <p align="center">
@@ -15,6 +27,10 @@
   <img height="150" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="150" src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true" />
   <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="800"/>
 </p>
 
 <h2 align="center"> Tech Stacks </h2>
@@ -47,27 +63,6 @@ Backend architecture for inventory validation, XML workflows, barcode scanning, 
 
 ## Electric-HUB
 Web platform and desktop application for Arduino electronic components and electronics management.
-
----
-
-
-<h2 align="center"> Contact me </h2>
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/gael-flores-b2b722264/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:floroandresjob@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Flores-Romero-Andres-Gael">
-    <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-</p>
 
 ---
 
