@@ -12,7 +12,7 @@
 </p>
 
 <table align="center" border="0">
-  <tr>
+  <tr border="0">
     <td align="center">
       <img height="250" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
     </td>
