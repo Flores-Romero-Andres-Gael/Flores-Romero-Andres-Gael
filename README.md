@@ -20,6 +20,10 @@
 </p>
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="800"/>
+</p>
+
+<p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar"/>
 </p>
 
@@ -27,10 +31,6 @@
   <img height="150" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="150" src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true" />
   <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="800"/>
 </p>
 
 <h2 align="center"> Tech Stacks </h2>
