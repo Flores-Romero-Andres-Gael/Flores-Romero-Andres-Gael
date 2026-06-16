@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Gael%20Flores&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient&customColorList=24,25,26" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Gael%20Flores&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient&color=0:F72585,50:B5179E,100:7209B7" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=HELLO+THERE!;Backend+Developer;Node.js+%7C+TypeScript;Django+REST+Framework;Angular+%26+React;Building+Scalable+Backend+Systems" />
