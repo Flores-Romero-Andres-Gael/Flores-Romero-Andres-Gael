@@ -10,27 +10,7 @@
   <img src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" width="500"/>
 </p>
 
----
-
-## Connect With Me
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/gael-flores-b2b722264/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="florogael@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Flores-Romero-Andres-Gael">
-    <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-</p>
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics </h2>
 
 <p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar"/>
@@ -57,20 +37,8 @@
 </td>
 </tr>
 </table>
-  
-# About Me
 
-- 💻 Backend Developer focused on scalable APIs and backend architecture
-- ⚙️ Experience with Node.js, Express, TypeScript, Django REST Framework, and MongoDB
-- 📱 Frontend development using Angular, React, and Next.js
-- 🛠 Building inventory systems, validation workflows, and e-commerce platforms
-- 🔍 Passionate about clean architecture, REST APIs, databases, and software design
-- 🌱 Currently learning software architecture and advanced backend patterns
-- 🎓 Computer Systems Engineering
-
----
-
-# Tech Stack
+<h2 align="center"> Tech Stacks </h2>
 
 <p align="center">
 
@@ -99,6 +67,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="55"/>
 
 </p>
+  
+<h2 align="center"> About Me </h2>
+
+- 💻 Backend Developer focused on scalable APIs and backend architecture
+- ⚙️ Experience with Node.js, Express, TypeScript, Django REST Framework, and MongoDB
+- 📱 Frontend development using Angular, React, and Next.js
+- 🛠 Building inventory systems, validation workflows, and e-commerce platforms
+- 🔍 Passionate about clean architecture, REST APIs, databases, and software design
+- 🌱 Currently learning software architecture and advanced backend patterns
+- 🎓 Computer Systems Engineering
 
 ---
 
@@ -115,6 +93,27 @@ Backend architecture for inventory validation, XML workflows, barcode scanning, 
 
 ## Electric-HUB
 Web platform and desktop application for Arduino electronic components and electronics management.
+
+---
+
+
+## Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/gael-flores-b2b722264/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="florogael@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Flores-Romero-Andres-Gael">
+    <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
 
