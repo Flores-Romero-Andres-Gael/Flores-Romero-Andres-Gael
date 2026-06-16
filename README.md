@@ -80,7 +80,7 @@
 
 ---
 
-# 📌 Featured Projects
+<h2 align="center"> Projects </h2>
 
 ## Django E-commerce API
 REST API with authentication, shopping cart system, order management, and JWT security.
@@ -97,7 +97,7 @@ Web platform and desktop application for Arduino electronic components and elect
 ---
 
 
-## Connect With Me
+<h2 align="center"> Contact me </h2>
 
 <p align="center">
 
@@ -105,7 +105,7 @@ Web platform and desktop application for Arduino electronic components and elect
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="florogael@gmail.com">
+  <a href="floroandresjob@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
