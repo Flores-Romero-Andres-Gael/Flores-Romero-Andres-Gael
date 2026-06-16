@@ -11,19 +11,11 @@
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar"/>
 </p>
 
-<table align="center" border="0">
-  <tr border="0">
-    <td align="center">
-      <img height="250" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center">
-      <img height="250" src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false" />
-    </td>
-    <td align="center">
-      <img height="250" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=false&layout=compact&hide=Jupyter%20Notebook" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="250" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="250" src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true" />
+  <img height="250" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
+</p>
 
 <h2 align="center"> Tech Stacks </h2>
 <p align="center">
