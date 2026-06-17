@@ -33,7 +33,7 @@
       <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=midnight-purple&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
     </td>
     <td valign="top" align="right">
-      <img width="350" src="https://i.redd.it/pf9jublkarq11.gif" />
+      <img width="100%" src="https://i.redd.it/pf9jublkarq11.gif" />
     </td>
   </tr>
 </table>
