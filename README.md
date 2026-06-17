@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://sourire.home.blog/wp-content/uploads/2018/09/bc87e5124f8d2cfe810d403adc96ad01.gif?w=552&h=247" width="500"/>
+  <img src="https://sourire.home.blog/wp-content/uploads/2018/09/bc87e5124f8d2cfe810d403adc96ad01.gif?w=552&h=247" width="100%" height="100%/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
   <img height="150" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="150" src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true" />
   <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
-    <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Ahttps://i.pinimg.com/originals/ba/b6/08/bab6083d2b470bf80d99ac49c2b331a5.gif" />
+    <img height="150" src="https://i.redd.it/pf9jublkarq11.gif" />
 </p>
 
 <h2 align="center"> Tech Stacks </h2>
