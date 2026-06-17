@@ -44,8 +44,8 @@
 
 <h2 align="center"> Tech Stacks </h2>
 <p align="center">
-  <img aling=center src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,java,cpp,cs,html,css,angular,react,nextjs,mongodb,mysql,git,docker,postman,github,linkedin,prisma,wordpress,vscode,pycharm,idea,aws" />
-</p
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,cs,html,css,nodejs,django,prisma,angular,react,nextjs,mongodb,mysql,docker,aws,git,github,postman,vscode,idea,pycharm,wordpress,linkedin" />
+</p>
 
 ---
   
