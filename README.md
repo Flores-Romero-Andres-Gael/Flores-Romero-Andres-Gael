@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/462933a2712dbbe9f083ee98ff9d0a9a/tumblr_p2ra9r5bRo1wai581o1_1280.gif" width="100%"/>
+  <img src="https://64.media.tumblr.com/462933a2712dbbe9f083ee98ff9d0a9a/tumblr_p2ra9r5bRo1wai581o1_1280.gifv" width="100%"/>
 </p>
 
 <p align="center">
