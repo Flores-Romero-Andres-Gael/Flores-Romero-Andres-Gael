@@ -24,14 +24,14 @@
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/462933a2712dbbe9f083ee98ff9d0a9a/tumblr_p2ra9r5bRo1wai581o1_1280.gif" width="100%" height="125px"/>
+  <img src="https://64.media.tumblr.com/462933a2712dbbe9f083ee98ff9d0a9a/tumblr_p2ra9r5bRo1wai581o1_1280.gif" width="100%"/>
 </p>
 
 <p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar"/>
 </p>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td valign="top">
       <img height="150" width="100%" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
