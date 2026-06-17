@@ -23,14 +23,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/56/57/7e/56577e48acdd6b57a6cbb3a07547a36c.gif" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar"/>
-</p>
-
 <table align="center" border="0">
   <tr>
     <td valign="top">
@@ -45,8 +37,10 @@
     </td>
   </tr>
 </table>
-    
 
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar"/>
+</p>
 
 <h2 align="center"> Tech Stacks </h2>
 <p align="center">
