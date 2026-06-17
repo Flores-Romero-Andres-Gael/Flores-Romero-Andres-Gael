@@ -23,18 +23,41 @@
 
 </p>
 
-<table align="center" border="0">
+<table align="center">
   <tr>
-    <td valign="top" align="left">
-      <img height="150" src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
-    <br align="left">
-      <img height="150" src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true" />
-    <br align="left">
-      <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
+
+    <td valign="top">
+
+      <img
+        height="150"
+        src="https://github-readme-stats.shion.dev/api?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true"
+      />
+
+      <br>
+
+      <img
+        height="150"
+        src="https://streak-stats.demolab.com?user=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true"
+      />
+
+      <br>
+
+      <img
+        height="150"
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=Flores-Romero-Andres-Gael&theme=catppuccin_mocha&hide_border=true&layout=compact&hide=Jupyter%20Notebook"
+      />
+
     </td>
-    <td valign="top" align="right">
-      <img width="350" src="https://i.redd.it/pf9jublkarq11.gif" />
+
+    <td valign="middle">
+
+      <img
+        width="350"
+        src="https://i.redd.it/pf9jublkarq11.gif"
+      />
+
     </td>
+
   </tr>
 </table>
 
