@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
+  <a href="https://andres-gael-flores-romero.com/">
+    <img src="https://img.shields.io/badge/Website-B5179E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
 </p>
 
 <p align="center">
