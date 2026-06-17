@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://sourire.home.blog/wp-content/uploads/2018/09/bc87e5124f8d2cfe810d403adc96ad01.gif?w=552&h=247" width="100%" height="100%/>
+  <img src="https://64.media.tumblr.com/462933a2712dbbe9f083ee98ff9d0a9a/tumblr_p2ra9r5bRo1wai581o1_1280.gif" width="100%" height="125px"/>
 </p>
 
 <p align="center">
