@@ -36,7 +36,9 @@
 <h2 align="center"> Tech Stacks </h2>
 <p align="center">
   <img aling=center src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,java,cpp,cs,html,css,angular,react,nextjs,mongodb,mysql,git,docker,postman,github,linkedin,prisma,wordpress,vscode,pycharm,idea,aws" />
-</p>
+</p
+
+---
   
 <h2 align="center"> About Me </h2>
 
@@ -47,22 +49,6 @@
 - 🔍 Passionate about clean architecture, REST APIs, databases, and software design
 - 🌱 Currently learning software architecture and advanced backend patterns
 - 🎓 Computer Systems Engineering
-
----
-
-<h2 align="center"> Projects </h2>
-
-## Django E-commerce API
-REST API with authentication, shopping cart system, order management, and JWT security.
-
-## Inventory & Purchase Order System
-Backend architecture for inventory validation, XML workflows, barcode scanning, and purchase order management using Node.js, Express, MongoDB, and TypeScript.
-
-## CODEKNIGHT
-2D Unity game with combat mechanics and programming-based gameplay systems.
-
-## Electric-HUB
-Web platform and desktop application for Arduino electronic components and electronics management.
 
 ---
 
