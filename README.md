@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://andres-gael-flores-romero.com/">
-    <img src="https://img.shields.io/badge/Website-B5179E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-B5179E?style=for-the-badge&logo=retroarch&logoColor=white" />
   </a>
 
 </p>
